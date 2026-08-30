@@ -1,0 +1,3 @@
+{
+    condition: "vanillaPanoramaPlus.version.v26_2 & vanillaPanoramaPlus.vibrant & vanillaPanoramaPlus.resourcepack.vanilla"
+}
