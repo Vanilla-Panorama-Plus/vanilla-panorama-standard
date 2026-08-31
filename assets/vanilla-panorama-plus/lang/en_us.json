@@ -1,22 +1,22 @@
 {
     
-    "rpo.vanillaPanoramaPlus": "Vanilla Panorama +",
+    "rpo.vanillaPanoramaPlusStandardStandard": "Vanilla Panorama + Standard Edition",
 
-    "rpo.vanillaPanoramaPlus.version": "Panorama's Minecraft Version",
-    "rpo.vanillaPanoramaPlus.version.v26_2": "26.2",
-    "rpo.vanillaPanoramaPlus.version.v26_1": "26.1",
-    "rpo.vanillaPanoramaPlus.version.v1_21_11": "1.21.11",
+    "rpo.vanillaPanoramaPlusStandard.version": "Panorama's Minecraft Version",
+    "rpo.vanillaPanoramaPlusStandard.version.v26_2": "26.2",
+    "rpo.vanillaPanoramaPlusStandard.version.v26_1": "26.1",
+    "rpo.vanillaPanoramaPlusStandard.version.v1_21_11": "1.21.11",
     
-    "rpo.vanillaPanoramaPlus.shaderpack": "Panorama's Shader Pack",
-    "rpo.vanillaPanoramaPlus.shaderpack.complementary": "Complementary",
-    "rpo.vanillaPanoramaPlus.shaderpack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlus.shaderpack.bsl": "BSL",
-    "rpo.vanillaPanoramaPlus.shaderpack.solas": "Solas",
-    "rpo.vanillaPanoramaPlus.shaderpack.mignature": "Mignature",
-    "rpo.vanillaPanoramaPlus.shaderpack.vibrant": "Visual Vibrance",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack": "Panorama's Shader Pack",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.complementary": "Complementary",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.bsl": "BSL",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.solas": "Solas",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.mignature": "Mignature",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.vibrant": "Visual Vibrance",
     
-    "rpo.vanillaPanoramaPlus.resourcepack": "Panorama's Resource Pack",
-    "rpo.vanillaPanoramaPlus.resourcepack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlus.resourcepack.barebones": "Barebones",
-    "rpo.vanillaPanoramaPlus.resourcepack.faitful": "Faitful"
+    "rpo.vanillaPanoramaPlusStandard.resourcepack": "Panorama's Resource Pack",
+    "rpo.vanillaPanoramaPlusStandard.resourcepack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusStandard.resourcepack.barebones": "Barebones",
+    "rpo.vanillaPanoramaPlusStandard.resourcepack.faitful": "Faitful"
 }
