@@ -1,13 +1,13 @@
 {
-    id: "vanillaPanoramaPlus",
+    id: "vanillaPanoramaPlusStandard",
     version: 13,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
         // Your config options will go here
         version: {
             type: "enum",
-            default: "v26_2",
-            values: ["v26_2","v26_1","v1_21_11"]
+            default: "v26_3",
+            values: ["v26_3"]
             },
         shaderpack: {
             type: "enum",

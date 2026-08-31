@@ -1,22 +1,20 @@
 {
     
-    "rpo.vanillaPanoramaPlus": "Vanilla Panorama +",
+    "rpo.vanillaPanoramaPlusStandardStandard": "Vanilla Panorama +",
 
-    "rpo.vanillaPanoramaPlus.version": "Panorama's Minecraft Version",
-    "rpo.vanillaPanoramaPlus.version.v26_2": "26.2",
-    "rpo.vanillaPanoramaPlus.version.v26_1": "26.1",
-    "rpo.vanillaPanoramaPlus.version.v1_21_11": "1.21.11",
-    
-    "rpo.vanillaPanoramaPlus.shaderpack": "Panorama's Shader Pack",
-    "rpo.vanillaPanoramaPlus.shaderpack.complementary": "Complementary",
-    "rpo.vanillaPanoramaPlus.shaderpack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlus.shaderpack.bsl": "BSL",
-    "rpo.vanillaPanoramaPlus.shaderpack.solas": "Solas",
-    "rpo.vanillaPanoramaPlus.shaderpack.mignature": "Mignature",
-    "rpo.vanillaPanoramaPlus.shaderpack.vibrant": "Visual Vibrance",
-    
-    "rpo.vanillaPanoramaPlus.resourcepack": "Panorama's Resource Pack",
-    "rpo.vanillaPanoramaPlus.resourcepack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlus.resourcepack.barebones": "Barebones",
-    "rpo.vanillaPanoramaPlus.resourcepack.faitful": "Faitful"
+    "rpo.vanillaPanoramaPlusStandardStandard.version": "Panorama's Minecraft Version",
+    "rpo.vanillaPanoramaPlusStandardStandard.version.v26_3": "26.3",
+
+    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack": "Panorama's Shader Pack",
+    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.complementary": "Complementary",
+    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.bsl": "BSL",
+    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.solas": "Solas",
+    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.mignature": "Mignature",
+    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.vibrant": "Visual Vibrance",
+
+    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack": "Panorama's Resource Pack",
+    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack.barebones": "Barebones",
+    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack.faitful": "Faitful"
 }
