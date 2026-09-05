@@ -1,3 +1,0 @@
-{
-    condition: "vanillaPanoramaPlusStandard.version.v1_21_11 & vanillaPanoramaPlusStandard.shaderpack.vanilla & vanillaPanoramaPlusStandard.resourcepack.vanilla"
-}
