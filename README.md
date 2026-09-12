@@ -1,7 +1,8 @@
+![Standard Edition Banner](https://cdn.modrinth.com/data/cached_images/665179faf0f39658b5939c8269aefb022fb109d3.png)
 ### What is Vanilla Panorama + ?
 Vanilla Panorama + is a resource pack that enhances the default Minecraft panorama for each update, making it more alive by using shader packs and showcasing the new features in the update. Thanks to [Respackopt](https://modrinth.com/mod/respackopts), Vanilla Panorama + has multiple different variants of each panorama for the different versions of the game. The variants include support for many shader pack and resource pack combinations.
 
-### Showcase
+### Showcase (see [Gallery](https://modrinth.com/project/vanilla-panorama-standard/gallery) for more)
 ![Different Variants Showcase](https://github.com/Vanilla-Panorama-Plus/vanilla-panorama-plus-assets/blob/new-editions/branding/videos/showcase-lite/showcase-lite.gif?raw=true)
 
 ### The Different Editions
@@ -17,12 +18,12 @@ Currently, Vanilla Panorama + supports versions 1.21.1+, but only includes custo
 | Versions | Support Status | Comments |
 | --- | --- | --- |
 | *1.20 and older* | 🟥 *Not Supported* | |
-| 1.21.1, 1.21.4, 1.21.5, 1.21.6, 1.21.9 | 🟨 Supported (No Custom Panoramas) | |
+| 1.21.1, 1.21.4, 1.21.5, 1.21.6-1.21.8, 1.21.9 | 🟨 Supported (No Custom Panoramas) | |
 | 1.21.11, 26.1, 26.2 | ✅ Fully Supported with Custom Panoramas | 26.1 and 26.2 have missing textures in the Barebones/Faithful variants because the resource pack is not up to date. |
 | All Future Versions (26.3+) | 🟨 Upcoming versions are a priority; I cannot guarantee they will be supported. | |
 
 ### Contribute to the Project!
-We are open to contributions! Here is our [**GitHub**](https://github.com/bandido-gaming/vanilla-panorama-plus) and we have a [Separate Repository](https://github.com/bandido-gaming/vanilla-panorama-plus-assets) for all assets and guides, so you can build your own custom panorama without [Respackopt](https://modrinth.com/mod/respackopts) to switch between them, or simply contribute to the project. If you want to use this project in a modpack or fork it, please link this Modrinth page or our GitHub for credit. Finally, we have this [Google Sheet](https://docs.google.com/spreadsheets/d/1pN8Wpvxt0Stt1Pqa3ScsRSd5hq2uKEP9c_vXmu_Oy80/edit?usp=sharing) to track the progress of the design, building, rendering, and packaging of new panoramas.
+We are open to contributions! Here is our [**GitHub**](https://github.com/Vanilla-Panorama-Plus/vanilla-panorama-standard) and we have a [Separate Repository](https://github.com/bandido-gaming/vanilla-panorama-plus-assets) for all assets and guides, so you can build your own custom panorama without [Respackopt](https://modrinth.com/mod/respackopts) to switch between them, or simply contribute to the project. If you want to use this project in a modpack or fork it, please link this Modrinth page or our GitHub for credit. Finally, we have this [Google Sheet](https://docs.google.com/spreadsheets/d/1pN8Wpvxt0Stt1Pqa3ScsRSd5hq2uKEP9c_vXmu_Oy80/edit?usp=sharing) to track the progress of the design, building, rendering, and packaging of new panoramas.
 
 ### Credits
 
