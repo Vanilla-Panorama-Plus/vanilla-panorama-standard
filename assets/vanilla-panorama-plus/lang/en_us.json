@@ -1,20 +1,21 @@
 {
     
-    "rpo.vanillaPanoramaPlusStandardStandard": "Vanilla Panorama + Standard Edition",
+    "rpo.vanillaPanoramaPlusStandard": "Vanilla Panorama + Standard Edition",
 
-    "rpo.vanillaPanoramaPlusStandardStandard.version": "Panorama's Minecraft Version",
-    "rpo.vanillaPanoramaPlusStandardStandard.version.v26_3": "26.3",
+    "rpo.vanillaPanoramaPlusStandard.version": "Panorama's Minecraft Version",
+    "rpo.vanillaPanoramaPlusStandard.version.v26_3": "26.3",
 
-    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack": "Panorama's Shader Pack",
-    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.complementary": "Complementary",
-    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.bsl": "BSL",
-    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.solas": "Solas",
-    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.mignature": "Mignature",
-    "rpo.vanillaPanoramaPlusStandardStandard.shaderpack.vibrant": "Visual Vibrance",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack": "Panorama's Shader Pack",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.complementary": "Complementary",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.bsl": "BSL",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.solas": "Solas",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.mignature": "Mignature",
+    "rpo.vanillaPanoramaPlusStandard.shaderpack.vibrant": "Visual Vibrance",
 
-    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack": "Panorama's Resource Pack",
-    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack.vanilla": "Vanilla",
-    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack.barebones": "Barebones",
-    "rpo.vanillaPanoramaPlusStandardStandard.resourcepack.faitful": "Faitful"
+    "rpo.vanillaPanoramaPlusStandard.resourcepack": "Panorama's Resource Pack",
+    "rpo.vanillaPanoramaPlusStandard.resourcepack.vanilla": "Vanilla",
+    "rpo.vanillaPanoramaPlusStandard.resourcepack.barebones": "Barebones",
+    "rpo.vanillaPanoramaPlusStandard.resourcepack.faitful": "Faitful",
+    "rpo.vanillaPanoramaPlusStandard.resourcepack.tooltip": "Not Aviable for some versions"
 }

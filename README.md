@@ -18,7 +18,7 @@ Currently, Vanilla Panorama + supports versions 1.21.1+, but only includes custo
 | --- | --- | --- |
 | *1.20 and older* | 🟥 *Not Supported* | |
 | 1.21.1, 1.21.4, 1.21.5, 1.21.6, 1.21.9 | 🟨 Supported (No Custom Panoramas) | |
-| 1.21.11, 26.1, 26.2 | ✅ Fully Supported with Custom Panoramas | 26.1 and 26.2 have missing textures in the Barebones/Faithful variants because the resource pack is not up to date. |
+| 1.21.11, 26.1, 26.3 | ✅ Fully Supported with Custom Panoramas | 26.1 and 26.3 have missing textures in the Barebones/Faithful variants because the resource pack is not up to date. |
 | All Future Versions (26.3+) | 🟨 Upcoming versions are a priority; I cannot guarantee they will be supported. | |
 
 ### Contribute to the Project!
